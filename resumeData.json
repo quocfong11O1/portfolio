@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Quoc Phong",
+    "occupation": "Can Tho",
+    "description": "I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive toward. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and achieve greatness. ",
+    "image": "profilepic.jpg",
+    "bio": "I'm a student of the ACADEMY OF CRYPTOGRAPHY TECHNIQUES. I have a lot of passion and ambition that I want to be the best version of myself. I always try to learn and develop myself. There's always a direction to move forward. I hope I have a better life and do more useful things later.",
+    "contactmessage": "",
+    "email": "mqphong.dev@gmail.com",
+    "phone": "0902 269 417",
+    "address": {
+      "city": "Ha Dong",
+      "state": "Ha Noi"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100040822552329",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/fongquoc1101",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/fong_quoc/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/quocfong11O1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "ACADEMY OF CRYPTOGRAPHY TECHNIQUES",
+        "description": "I learned about cryptography and how to pentest a program or application. "
+      }
+    ],
+    "work": [
+      {
+        "company": "VNCERT/CC",
+        "title": "VNCERT/CC ",
+        "years": "March 2022 - June 2022",
+        "description": "Here i learned about how to pentest a website. I developed my self-learning ability and learned Frontend, Backend how to pentest the best website. In the process of learning I developed myself strongest in Frontend with ReactJS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Todo App",
+        "category": "You can write and manage your task in here",
+        "image": "todo.png",
+        "url": "https://quocfong11o1.github.io/todo-app/"
+      },
+      {
+        "title": "Pokedex",
+        "category": "Pokemon list",
+        "image": "poke_api.svg",
+        "url": "#"
+      }
+    ]
+  }
+}
